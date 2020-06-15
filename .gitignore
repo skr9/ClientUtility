@@ -1,0 +1,12 @@
+.vs/
+build/
+debug/
+release/
+*.sln
+*.db
+*.opendb
+/ClientUtility/debug/
+/ClientUtility/release/
+/ClientUtility/*.vcxproj
+/ClientUtility/*.filters
+/*.stash
